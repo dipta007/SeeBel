@@ -1,0 +1,16 @@
+Goto: https://www.cityscapes-dataset.com/
+Navigate to: https://www.cityscapes-dataset.com/downloads/
+Create an account (with instituitional email) and log-in in order ot download the data.
+Download the following files:
+>> gtFine_trainvaltest.zip (241MB) [md5]
+>> leftImg8bit_trainvaltest.zip (11GB) [md5]
+Once you have downloaded them and unzipped them they should be in the ROOT_DIR (as used in the notebook) following the taxonomy as listed below:
+---| ROOT_DIR
+------| gtFine            (*** Annotations/Labels/Targets ***)
+----------| test
+----------| train
+----------| val
+------| leftImg8bit           (*** Images/Inputs ***)
+----------| test
+----------| train
+----------| val
