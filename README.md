@@ -67,7 +67,6 @@ pip install ipympl
 ## ✅ Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-<!--- These are just example requirements. Add, duplicate or remove as required --->
 * You have latest `conda` installed
 * You have a `<Linux/Mac>` machine.
 
@@ -77,8 +76,8 @@ To install SeeBel, follow these steps:
 
 ### macOS:
 ```
-conda create -n vis python=3.7
-conda activate vis
+conda create -n seebel python=3.7
+conda activate seebel
 conda install pip
 pip install jupyterlab
 pip install ipywidgets
@@ -92,8 +91,8 @@ pip install ipympl
 
 ### Linux:
 ```
-conda create -n vis python=3.7
-conda activate vis
+conda create -n seebel python=3.7
+conda activate seebel
 conda install pip
 pip install jupyterlab
 pip install ipywidgets
