@@ -62,7 +62,7 @@ pip install ipympl
 ## 🚀 Quick Tour
 ### Vis 1
 ![Vis 1](./idioms/final/vis_1/vis1.gif)
-- [ ] Vis 2
+### Vis 2
 - [ ] Vis 3
 
 ## ✅ Prerequisites
