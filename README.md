@@ -77,7 +77,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## ⚡️ Installing SeeBel
 
-To install SeeBel, follow these steps:
+To install SeeBel, run the following commands on the root folder:
 
 ### macOS:
 ```
@@ -92,6 +92,10 @@ conda install matplotlib
 pip install einops
 conda install -c anaconda pandas
 pip install ipympl
+pip install gdown
+gdown 1J-8tgf02gTZQdKkuYfLvzCweFhDTTAp5
+rm -rf __MACOSX
+rm -rf data.zip  
 ```
 
 ### Linux:
@@ -107,6 +111,10 @@ conda install matplotlib
 pip install einops
 conda install -c anaconda pandas
 pip install ipympl
+pip install gdown
+gdown 1J-8tgf02gTZQdKkuYfLvzCweFhDTTAp5
+rm -rf __MACOSX
+rm -rf data.zip  
 ```
 ## 🕹️ Using SeeBel
 
