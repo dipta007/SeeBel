@@ -36,7 +36,7 @@ pip install ipympl
 
 ``` -->
 
-# SeeBel: <span style="color:red">See</span>ing is <span style="color:red">Bel</span>ieving
+# SeeBel: <ins>*See*</ins>ing is <ins>*Bel*</ins>ieving
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![MIT License](https://img.shields.io/github/license/dipta007/seebel?style=plastic)
