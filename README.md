@@ -36,7 +36,7 @@ pip install ipympl
 
 ``` -->
 
-# SeeBel: <ins>*See*</ins>ing is <ins>*Bel*</ins>ieving
+# SeeBel: <ins>See</ins>ing is <ins>Bel</ins>ieving
 ![Python Version](https://badgen.net/pypi/python/black)
 ![MIT License](https://img.shields.io/github/license/dipta007/seebel?style=plastic)
 ![GitHub Contributors](https://img.shields.io/github/contributors/dipta007/seebel?style=plastic)
