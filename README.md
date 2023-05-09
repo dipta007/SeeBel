@@ -51,22 +51,27 @@ pip install ipympl
 ![GitHub Followers](https://img.shields.io/github/followers/dipta007?style=plastic)
 
 
-## Domain
+## 👨🏻‍💻 Domain
 - [x] Computer Vision
 - [x] Machine Learning
 - [x] Semantic Segmentation 
 
-## Use Case
+## 💪 Use Case
 - [ ] TODO 
 
-## Prerequisites
+## 🚀 Quick Tour
+- [ ] Vis 1
+- [ ] Vis 2
+- [ ] Vis 3
+
+## ✅ Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
 * You have latest `conda` installed
 * You have a `<Linux/Mac>` machine.
 
-## Installing SeeBel
+## ⚡️ Installing SeeBel
 
 To install SeeBel, follow these steps:
 
@@ -99,7 +104,7 @@ pip install einops
 conda install -c anaconda pandas
 pip install ipympl
 ```
-## Using SeeBel
+## 🕹️ Using SeeBel
 
 To use SeeBel, follow these steps:
 
@@ -109,7 +114,7 @@ jupyter-lab
 ```
 From the jupyter-lab environment, run individual visualizations in the `final` folder.
 
-## Contributing to SeeBel
+## 🤗 Contributing to SeeBel
 To contribute to SeeBel, follow these steps:
 
 1. Fork this repository.
@@ -120,17 +125,17 @@ To contribute to SeeBel, follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contributors
+## 🙏 Contributors
 
 Thanks to the following people who have contributed to this project:
 
 * [@sourajitcs](https://github.com/sourajitcs)
 
-## Contact
+## ✉️ Contact
 
 If you want to contact me you can reach me at [@Shubhashis Roy Dipta](mailto:sroydip1@umbc.edu) or my teammate at [@Sourajit Saha](mailto:sroydip1@umbc.edu)
 
 
-## License
+## 🪪 License
 
 This project uses the following license: [MIT License](./LICENSE).
