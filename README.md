@@ -63,6 +63,10 @@ pip install ipympl
 ### Vis 1
 ![Vis 1](./idioms/final/vis_1/vis1.gif)
 ### Vis 2
+https://user-images.githubusercontent.com/13894030/237001350-b1e8baa2-cb82-4764-873e-035e3488d3d6.mp4
+
+
+
 - [ ] Vis 3
 
 ## ✅ Prerequisites
