@@ -37,11 +37,17 @@ pip install ipympl
 ``` -->
 
 # SeeBel: <ins>*See*</ins>ing is <ins>*Bel*</ins>ieving
-
-<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![MIT License](https://img.shields.io/github/license/dipta007/seebel?style=plastic)
-![GitHub Followers](https://img.shields.io/github/followers/dipta007?style=plastic)
 ![Python Version](https://badgen.net/pypi/python/black)
+![MIT License](https://img.shields.io/github/license/dipta007/seebel?style=plastic)
+![GitHub Contributors](https://img.shields.io/github/contributors/dipta007/seebel?style=plastic)
+![Repo Size](https://img.shields.io/github/repo-size/dipta007/seebel)
+![GitHub Stars](https://img.shields.io/github/stars/dipta007/seebel?style=plastic)
+![GitHub Issues](https://img.shields.io/github/issues/dipta007/seebel?style=plastic)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/dipta007/seebel?style=plastic)
+![GitHub Forks](https://img.shields.io/github/forks/dipta007/seebel?style=plastic)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/dipta007/seebel?style=plastic)
+![GitHub Top Language](https://img.shields.io/github/languages/top/dipta007/seebel?style=plastic)
+
 
 ## Domain
 - [x] Computer Vision
