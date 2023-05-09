@@ -94,6 +94,7 @@ conda install -c anaconda pandas
 pip install ipympl
 pip install gdown
 gdown 1J-8tgf02gTZQdKkuYfLvzCweFhDTTAp5
+unzip data
 rm -rf __MACOSX
 rm -rf data.zip  
 ```
@@ -113,6 +114,7 @@ conda install -c anaconda pandas
 pip install ipympl
 pip install gdown
 gdown 1J-8tgf02gTZQdKkuYfLvzCweFhDTTAp5
+unzip data
 rm -rf __MACOSX
 rm -rf data.zip  
 ```
