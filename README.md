@@ -47,6 +47,8 @@ pip install ipympl
 ![GitHub Forks](https://img.shields.io/github/forks/dipta007/seebel?style=plastic)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/dipta007/seebel?style=plastic)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/dipta007/seebel?style=plastic)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/dipta007/seebel?style=plastic)
+![GitHub Followers](https://img.shields.io/github/followers/dipta007?style=plastic)
 
 
 ## Domain
