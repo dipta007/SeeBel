@@ -1,41 +1,3 @@
-
-<!-- # Requirements
-```
-conda create -n vis python=3.7
-conda activate vis
-pip install notebook
-# MPS acceleration is available on MacOS 12.3+
-conda install pytorch::pytorch torchvision torchaudio -c pytorch
-conda install matplotlib
-pip install einops
-conda install -c anaconda pandas
-conda install -c conda-forge ipywidgets
-
-jupyter nbextension enable --py --sys-prefix widgetsnbextension
-jupyter nbextension enable --py widgetsnbextension
-pip install --upgrade jupyter_client
-
-conda install -c conda-forge notebook
-conda install -c conda-forge nb_conda_kernels
-
-conda install -c anaconda jupyter
-```
-
-```
-conda create -n vis python=3.7
-conda activate vis
-conda install pip
-pip install jupyterlab
-pip install ipywidgets
-conda install pytorch::pytorch torchvision torchaudio -c pytorch
-pip install chardet 
-conda install matplotlib
-pip install einops
-conda install -c anaconda pandas
-pip install ipympl
-
-``` -->
-
 # SeeBel: <ins>See</ins>ing is <ins>Bel</ins>ieving
 ![Python Version](https://badgen.net/pypi/python/black)
 ![MIT License](https://img.shields.io/github/license/dipta007/seebel?style=plastic)
@@ -57,16 +19,18 @@ pip install ipympl
 - [x] Semantic Segmentation 
 
 ## 💪 Use Case
-- [ ] TODO 
+- [x] User Discovers Corrleation
+- [x] User Locate, Browse and Explore Features
+- [x] User Discover Distribution
 
 ## 🚀 Quick Tour
-### Vis 1
+### 1. Discovering Correlation Between Object Size and Object IoU for Different Category Classes
 ![Vis 1](./idioms/final/vis_1/vis1.gif)
 
-### Vis 2
+### 2. Locating, Browsing and Exploring Features
 https://user-images.githubusercontent.com/13894030/237001350-b1e8baa2-cb82-4764-873e-035e3488d3d6.mp4
 
-### Vis 3
+### 3. Discovering Distribution
 https://github.com/dipta007/SeeBel/assets/13894030/90bd29a2-b4bc-451c-8379-4bc24a7cf5ed
 
 
