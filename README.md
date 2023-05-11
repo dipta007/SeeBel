@@ -20,8 +20,8 @@
 
 ## 💪 Use Case
 - [x] User Discovers Corrleation
-- [x] User Locate, Browse and Explore Features
-- [x] User Discover Distribution
+- [x] User Locate, Browse or Explore Features
+- [x] User Locate, Browse or Explore Distribution
 
 ## 🚀 Quick Tour
 ### 1. Discovering Correlation Between Object Size and Object IoU for Different Category Classes
@@ -30,7 +30,7 @@
 ### 2. Locating, Browsing and Exploring Features
 https://user-images.githubusercontent.com/13894030/237001350-b1e8baa2-cb82-4764-873e-035e3488d3d6.mp4
 
-### 3. Discovering Distribution
+### 3: Discovering Correlation Between Object Size and Object IoU for Different Category Classes
 https://github.com/dipta007/SeeBel/assets/13894030/90bd29a2-b4bc-451c-8379-4bc24a7cf5ed
 
 
