@@ -6,7 +6,7 @@ Before you begin, ensure you have met the following requirements:
 * You have latest `conda` installed
 * You have a `<Linux/Mac>` machine.
 
-## ⚡️ Installing SeeBel
+## 💻 Installing SeeBel
 
 To install dependencies and dataset, run the following commands on the root folder:
 
