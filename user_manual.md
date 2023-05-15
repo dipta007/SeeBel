@@ -27,12 +27,14 @@ jupyter-lab
 From the jupyter-lab environment, run individual visualizations (`{vis_{1/2/3}.ipynb`) in the `final` folder.
 
 ### 🕹️ Interact with Vis 1
+#### The Task: Discovering Correlation Between Object Size and Object IoU for Different Category Classes
 * Run all cells in `vis_1.ipynb` to generate the visualization.
 * There are 2 visualizations, on the left is the overview of the whole dataset and on the right is the detail view of the selected object.
 * User can select the object from the dropdown menu on the top.
 * When the user selects an object, the detail view will be updated to show the object's size and IoU.
 
 ### 🕹️ Interact with Vis 2
+#### The Task: Locating, Browsing and Exploring Features
 * Run all cells in `vis_2.ipynb` to generate the visualization.
 * There are 2 visualizations, on the left is the original image and on the right is the heatmap of the model's importance score superimposed on the original image.
 * There are 2 dropdown menus on the top, one for selecting the object and the other for selecting the color map for the heatmap.
@@ -40,6 +42,7 @@ From the jupyter-lab environment, run individual visualizations (`{vis_{1/2/3}.i
 * When the user selects a color map, the heatmap will be updated to show the heatmap with the selected color map.
 
 ### 🕹️ Interact with Vis 3
+#### The Task: Discovering Correlation Between Object Size and Object IoU for Different Category Classes
 * Run all cells in `vis_3.ipynb` to generate the visualization.
 * There are 6 visualizations:
     1. Top Left: Original Image.
