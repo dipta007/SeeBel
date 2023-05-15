@@ -3,25 +3,38 @@
 ## Folder Structure
 ```
 📦 Group2_FinalRelease.zip
-├─ README.md                                    # This file
-├─ code                                         # Code for all the visualizations
-│  ├─ vis_1.ipynb                               # Code for Visualization 1
-│  ├─ vis_2.ipynb                               # Code for Visualization 2
-│  └─ vis_3.ipynb                               # Code for Visualization 3
-├─ datasets                                     # Datasets for all the visualizations (downloaded by setup.sh)
-│  ├─ vis_1                                     # Dataset for Visualization 1
-│  │  ├─ class_masks_transformed.pickle         # Transformed class masks by Segmentation Model
-│  │  ├─ iou_masks_transformed.pickle           #
-│  │  └─ size_masks_transformed.pickle
+README.md
+code
+vis_1.ipynb
+vis_2.ipynb
+vis_3.ipynb
+datasets
+vis_1
+class_masks.pickle
+iou_masks.pickle
+│  │  ├─ metadata.txt
+│  │  └─ size_masks.pickle
 │  ├─ vis_2
-│  │  ├─ grad_cam_dict_transformed.pickle
-│  │  └─ input_img_filtered.png
+│  │  ├─ metadata.txt
+│  │  ├─ input_img.png
+│  │  └─ grad_cam_dict.pickle
 │  └─ vis_3
-│     ├─ gt_dict_transformed.pickle
-│     ├─ input_img_filtered.png
-│     └─ pred_dict_transformed.pickle
+│     ├─ metadata.txt
+│     ├─ gt_dict.pickle
+│     ├─ input_img.png
+│     └─ pred_dict.pickle
 ├─ paper_source
-│  └─ .placeholder
+│  ├─ conference_ready.pdf
+│  ├─ figures
+│  │  ├─ fig1.eps
+│  │  ├─ fig2.png
+│  │  ├─ fig3.png
+│  │  ├─ fig4.png
+│  │  ├─ fig5.png
+│  │  ├─ fig6.png
+│  │  └─ fig7.png
+│  ├─ final-paper.pdf
+│  └─ final-paper_latex.zip
 ├─ setup.sh
 └─ user_manual.md
 ```
@@ -39,4 +52,4 @@ If you want to contact the developers, you can reach us at:
 
 ## 🪪 License
 
-This project uses the following license: [MIT License](./LICENSE).
+This project uses the following license: [MIT License]([./LICENSE](https://github.com/dipta007/SeeBel/blob/main/LICENSE)).
