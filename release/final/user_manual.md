@@ -63,4 +63,4 @@ conda deactivate
 conda env remove -n seebel
 ```
 
-Then follow the instructions from [Installing SeeBel](#⚡️-Installing-SeeBel) and [Using SeeBel](#👨🏻‍💻-Using-SeeBel) again.
+Then follow the instructions from [Installing SeeBel](#-installing-seebel) and [Using SeeBel](#👨🏻‍💻-using-seebel) again.
