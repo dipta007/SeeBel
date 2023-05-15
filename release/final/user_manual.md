@@ -62,7 +62,7 @@ From the jupyter-lab environment, run individual visualizations (`{vis_{1/2/3}.i
 ## ⚠️ Error Handling
 If you encounter any errors, please run the following commands:
 ```
-conda deactivate
+conda activate base
 conda env remove -n seebel
 ```
 

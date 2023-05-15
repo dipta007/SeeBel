@@ -5,6 +5,10 @@ set -o pipefail
 # setup conda
 source ~/miniconda3/etc/profile.d/conda.sh
 
+# remove seebel env if exists
+conda activate base 
+conda env remove -y -n seebel
+
 # create conda env
 conda create -y -n seebel python=3.7
 conda activate seebel
