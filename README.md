@@ -24,7 +24,6 @@
 │     ├─ metadata.txt
 │     └─ pred_dict.pickle
 ├─ paper_source
-│  ├─ conference_ready.pdf
 │  ├─ figures
 │  │  ├─ fig1.eps
 │  │  ├─ fig2.png
@@ -33,8 +32,10 @@
 │  │  ├─ fig5.png
 │  │  ├─ fig6.png
 │  │  └─ fig7.png
-│  ├─ final-paper.pdf
-│  └─ final-paper_latex.zip
+│  └─ text
+│     ├─ conference_ready.pdf
+│     ├─ final-paper.pdf
+│     └─ final-paper_latex.zip
 ├─ setup.sh
 └─ user_manual.md
 ```
