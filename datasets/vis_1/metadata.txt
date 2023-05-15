@@ -1,3 +1,3 @@
-* class_masks.pickle - 
-* iou_masks.pickle -
-* size_masks.pickle -
+* size_masks.pickle - The masks, in the dataset are originally present in a image grid however, for each mask that grid-like representation is transformed into a number - delineating the amount of pixels occupied by the mask. This process is repeated for each mask, making this a list.
+* iou_masks.pickle - Iou scores are transformations that takes into account both: (1) given masks on the dataset and (2) prediction masks which themselves are already a transformation performed on the original images on the dataset by an AI model.
+* class_masks.pickle - From the entire dataset we have filtered the object category attribute (filter by attribute).
