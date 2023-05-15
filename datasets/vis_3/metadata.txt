@@ -1,3 +1,3 @@
-* gt_dict.pickle - 
-* pred_dict.pickle - 
-* input_img - 
+* input_img - Only one image was randomly filtered (filtered by item) and stored here.
+* gt_dict.pickle - on the filtered image (filter by item), we have filtered the object mask attributes (filter by attribute).
+* pred_dict.pickle - on the filtered image, AI model inference is executed to transform the image into prediction masks.

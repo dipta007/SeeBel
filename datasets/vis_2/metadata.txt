@@ -1,2 +1,2 @@
-* grad_cam_dict.pickle -
-* input_img.png - 
+* input_img.png - Only one image was randomly filtered (filtered by item) and stored here.
+* grad_cam_dict.pickle - on the selected image, gradcam algorithm is executed for all possible object categories and the transformed attention weight are stored here.

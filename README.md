@@ -3,28 +3,28 @@
 ## Folder Structure
 ```
 📦 Group2_FinalRelease.zip
-├─ README.md
-├─ code
-│  ├─ vis_1.ipynb
-│  ├─ vis_2.ipynb
-│  └─ vis_3.ipynb
-├─ datasets
-│  ├─ vis_1
-│  │  ├─ class_masks.pickle
+├─ README.md                        # This file
+├─ code                             # Code folder
+│  ├─ vis_1.ipynb                   # Jupyter notebook for Vis 1
+│  ├─ vis_2.ipynb                   # Jupyter notebook for Vis 2
+│  └─ vis_3.ipynb                   # Jupyter notebook for Vis 3
+├─ datasets                         # Dataset folder (Not given in zip, will be created by setup.sh)
+│  ├─ vis_1                         # Dataset for Vis 1
+│  │  ├─ metadata.txt               # Metadata file describing the dataset files
 │  │  ├─ iou_masks.pickle
-│  │  ├─ metadata.txt
+│  │  ├─ class_masks.pickle
 │  │  └─ size_masks.pickle
-│  ├─ vis_2
-│  │  ├─ grad_cam_dict.pickle
+│  ├─ vis_2                         # Dataset for Vis 2
+│  │  ├─ metadata.txt               # Metadata file describing the dataset files
 │  │  ├─ input_img.png
-│  │  └─ metadata.txt
-│  └─ vis_3
-│     ├─ gt_dict.pickle
+│  │  └─ grad_cam_dict.pickle
+│  └─ vis_3                         # Dataset for Vis 3
+│     ├─ metadata.txt               # Metadata file describing the dataset files
 │     ├─ input_img.png
-│     ├─ metadata.txt
+│     ├─ gt_dict.pickle
 │     └─ pred_dict.pickle
-├─ paper_source
-│  ├─ figures
+├─ paper_source                     # Paper source folder
+│  ├─ figures                       # Figures used in the paper with same names as in the paper
 │  │  ├─ fig1.eps
 │  │  ├─ fig2.png
 │  │  ├─ fig3.png
@@ -32,12 +32,12 @@
 │  │  ├─ fig5.png
 │  │  ├─ fig6.png
 │  │  └─ fig7.png
-│  └─ text
-│     ├─ conference_ready.pdf
-│     ├─ final-paper.pdf
-│     └─ final-paper_latex.zip
-├─ setup.sh
-└─ user_manual.md
+│  └─ text                          # Paper source files
+│     ├─ conference_ready.pdf       # Paper in conference ready format
+│     ├─ final-paper.pdf            # Final paper in PDF format
+│     └─ final-paper_latex.zip      # Final paper in LaTeX format
+├─ setup.sh                         # Setup script for installing dependencies and downloading dataset
+└─ user_manual.md                   # User manual for using SeeBel
 ```
 ## ✉️ Contact
 
