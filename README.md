@@ -16,7 +16,8 @@
 ## 👨🏻‍💻 Domain
 - [x] Computer Vision
 - [x] Machine Learning
-- [x] Semantic Segmentation 
+- [x] Semantic Segmentation
+- [x] Data Visualization 
 
 ## 💪 Use Case
 - [x] User Discovers Corrleation
@@ -112,7 +113,7 @@ Thanks to the following people who have contributed to this project:
 
 ## ✉️ Contact
 
-If you want to contact me you can reach me at [@Shubhashis Roy Dipta](mailto:sroydip1@umbc.edu) or my teammate at [@Sourajit Saha](mailto:sroydip1@umbc.edu)
+If you want to contact the authors - Shubhashis Roy Dipta at [@Shubhashis Roy Dipta](mailto:sroydip1@umbc.edu) or Sourajit at [@Sourajit Saha](mailto:sroydip1@umbc.edu)
 
 
 ## 🪪 License
