@@ -113,7 +113,9 @@ Thanks to the following people who have contributed to this project:
 
 ## ✉️ Contact
 
-If you want to contact the authors - Shubhashis Roy Dipta at [@Shubhashis Roy Dipta](mailto:sroydip1@umbc.edu) or Sourajit at [@Sourajit Saha](mailto:sroydip1@umbc.edu)
+You can contact the authors:
+- [Shubhashis Roy Dipta](mailto:sroydip1@umbc.edu)
+- [Sourajit Saha](mailto:sroydip1@umbc.edu)
 
 
 ## 🪪 License
